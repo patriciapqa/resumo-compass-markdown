@@ -6,7 +6,7 @@ comentários
  
 
 enfase num texto 
-*Enfase*
+Enfase
 
 Strong 
 **Strong**
