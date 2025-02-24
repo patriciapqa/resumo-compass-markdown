@@ -71,11 +71,11 @@ Hello world
 ```
 
 11. Para criação de tabelas utilizaremos o pipe | no início e no final para podermos criar uma lacuna da tabela. Para separar cabeçalho e corpo da tabela, usaremos um hífen (- ) dentro dos pipes. 
-Exemplo: 
-| Nome | Data | horário |
-|-|-|
-|Patrícia| 24/10/2000| 10:30| 
-|Letícia| 14/01/2011| 11:00| 
+Exemplo:
+| Nome     | Data       | Horário |
+|----------|------------|---------|
+| Patrícia | 24/10/2000 | 10:30   |
+| Letícia  | 14/01/2011 | 11:00   |
 
 12. Para utilizar links, abriremos um colchete com o texto que aparecerá no markdown e ao lado, com parênteses o link
 Exemplo:
